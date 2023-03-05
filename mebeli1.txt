@@ -1,0 +1,52 @@
+Krovati TX,48,Bej,15300,Paralon
+Comod K,13,White,1700,DSP
+Comod Kit,18,Oreh,1801,LDSP
+Stol kitch,43,Belii,2200,DSP
+Teddy comod,24,Venge,1200,Plastic
+Stolic-Mini,77,Dub,2225,Steclo
+Divan-ugol,86,Blue,10400,Gobelen
+Kreslo Alla,55,Bej,5050,Koja
+Pufik PX,82,Blue,3000,Sintepon
+Tumba TV,87,Mokka,4433,DSP
+Lampa Lima,36,Dub,830,Plastic
+Veshalka Viva,23,Venge,550,Plastic
+Veshalka Vik,101,Venge,750,DSP
+Tumba TTV,71,Trufel,2000,Cameni
+Stul Eva,72,Blue,4640,Sintepon
+Polka PN,11,Dub,600,Plastic
+Polka Pri,120,Trufel,701,Plastic
+Stul office,75,Venge,9000,Koja
+Stul mai,10,White,2100,DSP
+Polka steclo,79,Bej,2876,Steclo
+Krovati copil,51,Oreh,7000,Paralon
+Comp stol,33,Oreh,3333,DSP
+Comp stol ugol,52,Venge,6000,LDSP
+Pismen stol,54,Dub,5820,MDF
+Dveri KC,21,Dub,6500,LDSP
+Dveri det,47,Trufel,4970,DSP
+Prihojka do,127,Dub,7110,MDF
+Prohojka Olia,65,White,7777,MDF
+Skaf Dulap,34,White,11027,Derevo
+Skaf Omega,50,Dub,12252,Derevo
+Stulicik Lila,99,Oreh,1477,DSP
+Cat skaf,45,Dub,7070,Derevo
+Lampa Lama,63,Bej,1422,Plastic
+Cupe skaf,12,Bej,6460,LDSP
+Skaf gravura,115,Mokka,13000,Derevo
+Skaf Sakura,84,White,14380,Derevo
+Cupe foto,83,Bej,9732,MDF
+Cupe most,76,Venge,17080,Derevo
+Cupe Paris,40,Trufel,11122,Derevo
+Scaf truba,64,Oreh,15540,Fanera
+Penal,107,Dub,8210,MDF
+Penal Mart,39,Mokka,8300,LDSP
+Penal sticla,102,Dub,5987,Steclo
+Skaf Kitty,37,Dub,6400,LDSP
+Skaf Musea,111,Oreh,9820,Fanera
+Krovati vverh,60,Mokka,15440,Paralon
+Penal Sasha,88,Mokka,9200,MDF
+Veshalka Mi,90,Venge,9002,MDF
+Tumba prestij,69,Oreh,8543,LDSP
+Krovati join,81,White,2047,DSP
+Kreslo Iulea,105,Blue,16087,Sintepon
+Polka MX,96,Bej,2331,Plastic
